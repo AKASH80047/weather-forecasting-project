@@ -1,2 +1,2 @@
 # weather-forecasting-project
-Weather Forecast Project | GeeksforGeeksA weather forecasting project can involve creating a system, application, or analysis tool that predicts weather conditions. This project can be implemented using various technologies, including web-based applications, mobile apps, or data analysis tools. 
+The main part of a weather forecasting project involves collecting atmospheric data using sensors and satellites, analyzing it with statistical and machine learning models, and predicting future weather conditions. This includes temperature, humidity, rainfall, and wind patterns. The system updates regularly for accurate short-term and long-term forecasts
